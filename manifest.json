@@ -1,0 +1,9 @@
+{
+  "name": "Academia de Básquet Crossover Portachuelo",
+  "short_name": "Crossover",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#101827",
+  "icons": []
+}
